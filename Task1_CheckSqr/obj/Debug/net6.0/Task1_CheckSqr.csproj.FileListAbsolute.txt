@@ -1,0 +1,15 @@
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\bin\Debug\net6.0\Task1_CheckSqr.exe
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\bin\Debug\net6.0\Task1_CheckSqr.deps.json
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\bin\Debug\net6.0\Task1_CheckSqr.runtimeconfig.json
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\bin\Debug\net6.0\Task1_CheckSqr.dll
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\bin\Debug\net6.0\Task1_CheckSqr.pdb
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\Task1_CheckSqr.csproj.AssemblyReference.cache
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\Task1_CheckSqr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\Task1_CheckSqr.AssemblyInfoInputs.cache
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\Task1_CheckSqr.AssemblyInfo.cs
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\Task1_CheckSqr.csproj.CoreCompileInputs.cache
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\Task1_CheckSqr.dll
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\refint\Task1_CheckSqr.dll
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\Task1_CheckSqr.pdb
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\Task1_CheckSqr.genruntimeconfig.cache
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\Семинар 1\Task1_CheckSqr\obj\Debug\net6.0\ref\Task1_CheckSqr.dll
